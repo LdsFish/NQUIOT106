@@ -10,6 +10,9 @@ Bot運作方式
 全關>>>關閉所有LED燈、並回應close it all
 ```
 
-參考webduino的智慧插座概念
+
+
+
+參考webduino的智慧插座概念  
 https://ithelp.ithome.com.tw/articles/10188257
 修改調整成聊天室關鍵字來切換不同顏色的LED燈顯示來結合繼電器的開關
