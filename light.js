@@ -1,3 +1,7 @@
+require("webduino-js");
+require("webduino-blockly");
+var firebase = require('firebase');
+
 var firebase;
 var blue;
 var red;
