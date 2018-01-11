@@ -10,7 +10,7 @@ Bot運作方式
 閃爍>>>LED交替閃爍、並回應一閃一閃亮晶晶
 全關>>>關閉所有LED燈、並回應close it all
 ```
-![vedio](NQUIOT106/image/botcallled.mp4)
+![vedio](https://github.com/LdsFish/NQUIOT106/blob/master/image/botcallled.jpg)
 
 
 
