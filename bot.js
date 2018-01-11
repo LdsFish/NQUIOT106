@@ -46,9 +46,10 @@ $(function(){
   database.once('value', function(snapshot) {
     $show.html('');
   // noprotect
-  //   for(var i in snapshot.val()){
-  //      $show.prepend('<div><div>'+snapshot.val()[i].time+'</div>'+snapshot.val()[i].name+' 說：'+snapshot.val()[i].content+'</div>');
-  //   }
+ //    for(var i in snapshot.val()){
+//       console.log('<div><div>'+snapshot.val()[i].time+'</div>'+snapshot.val()[i].name+' 說：'+snapshot.val()[i].content+'</div>')
+//        $show.prepend('<div><div>'+snapshot.val()[i].time+'</div>'+snapshot.val()[i].name+' 說：'+snapshot.val()[i].content+'</div>');
+//     }
   });
 
   database.limitToLast(1).on('value', function(snapshot) {

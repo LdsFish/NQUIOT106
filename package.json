@@ -1,0 +1,19 @@
+{
+  "name": "nquiot106",
+  "version": "1.0.0",
+  "description": "物聯網通識專題",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LdsFish/NQUIOT106.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LdsFish/NQUIOT106/issues"
+  },
+  "homepage": "https://github.com/LdsFish/NQUIOT106#readme"
+}
