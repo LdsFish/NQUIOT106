@@ -14,5 +14,5 @@ Bot運作方式
 
 
 參考webduino的智慧插座概念  
-https://ithelp.ithome.com.tw/articles/10188257
+https://ithelp.ithome.com.tw/articles/10188257  
 修改調整成聊天室關鍵字來切換不同顏色的LED燈顯示來結合繼電器的開關
