@@ -2,8 +2,12 @@
 物聯網通識專題-Smart Home Bot
 106學年第一學期第九組
 
-Bot運作方式  
+Bot運作方式：  
+開啟架好的網頁：https://ldsfish.000webhostapp.com/bot.html
+讓電路通電之後即可連線(可不依賴webduino的介面)
+亦可從手機開啟
 ```
+聊天室的對應情況如下：
 開燈>>>亮blue LED、導通繼電器並回應燈泡已經開啟
 關燈>>>亮red LED、關閉繼電器並回應已經關閉
 閃爍>>>LED交替閃爍、並回應一閃一閃亮晶晶
