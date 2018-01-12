@@ -3,9 +3,9 @@
 106學年第一學期第九組
 
 Bot運作方式：  
-開啟架好的網頁：https://ldsfish.000webhostapp.com/bot.html
-讓電路通電之後即可連線(可不依賴webduino的介面)
-亦可從手機端開啟
+開啟架好的網頁：https://ldsfish.000webhostapp.com/bot.html  
+讓電路通電之後即可連線(可不依賴webduino的介面)  
+亦可從手機端開啟  
 ![image](image/bot.jpg)
 ```
 聊天室的對應情況如下：
