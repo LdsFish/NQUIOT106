@@ -3,7 +3,7 @@
 106學年第一學期第九組
 
 Bot運作方式：  
-開啟架好的網頁聊天室, 
+開啟架好的網頁聊天室,   
 讓電路通電之後即可連線，亦可從手機端開啟~ 
 此時在聊天室輸入關鍵字的對應情況如下：
 ```
@@ -12,7 +12,7 @@ Bot運作方式：
 輸入閃爍>>>LED交替閃爍、並回應一閃一閃亮晶晶
 全關>>>關閉所有LED燈、並回應close it all
 ```
-![image](image/botcallled.jpg
+![image](image/botcallled.jpg)
 
 ![image](image/bot.jpg)
 
